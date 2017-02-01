@@ -10,7 +10,7 @@ exports.commands = {
 	poia: function () {
 		if (!this.canBroadcast()) return;
 		this.sendReply("oc");
-	}
+	},
 	afkhelp: function () {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox("<strong> Comandos de Afk : </strong><br />" +
