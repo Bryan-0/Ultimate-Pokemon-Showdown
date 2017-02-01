@@ -7,6 +7,10 @@ exports.commands = {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox("<a href=\"http://plug.dj/ultimateps/\">Plug DJ de Ultimate!</a>");
 	},
+	poia: function () {
+		if (!this.canBroadcast()) return;
+		this.sendReply("oc");
+	}
 	afkhelp: function () {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox("<strong> Comandos de Afk : </strong><br />" +
