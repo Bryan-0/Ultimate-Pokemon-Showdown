@@ -1,4 +1,4 @@
-Pokémon Showdown Command API
+Pokémon Extreame Masters Showdown Command API
 ========================================================================
 
 Defining a Command
